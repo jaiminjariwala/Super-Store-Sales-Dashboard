@@ -1,5 +1,5 @@
 # `Project Objective:`
-## To develop a comprehensive Super Store Sales PowerBI dashboard that provides real time insights into key-performance-metrics and trends.
+## To develop a comprehensive Super Store Sales PowerBI dashboard that provides real time insights into key-performance-metrics, trends and performs time-series forecasting.
 
 # `Preparing Data:`
 1. Prepare/Download the given CSV files
